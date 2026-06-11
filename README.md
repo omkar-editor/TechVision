@@ -1,3 +1,19 @@
+- Intern: Omkar Sharma 
+- GitHub: @omkar-editor
+- Organization: WeIntern Pvt Ltd
+- Program: Web Development Internship – Week 2
+# Objective 
+-Build a secure user authentication system that handles registration, login, and session management. Security best practices such as password hashing and input sanitization must be applied throughout.
+# Key Requirements
+- User registration with email, username, and password
+- Password hashing using bcrypt or similar algorithm
+- Login system that validates credentials against the database
+- Session management using JWT tokens or cookies
+- Protected routes that require authentication to access
+- Logout functionality that invalidates the session
+- Display appropriate error messages for invalid credentials
+
+
 # TechVision - Responsive Company Website
 
 A fully responsive, multi-page company website built with modern HTML5, CSS3, and JavaScript. Designed to work seamlessly across all devices with professional branding and interactive features.
