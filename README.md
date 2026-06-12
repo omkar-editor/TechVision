@@ -317,8 +317,8 @@ This project is provided as-is for educational and commercial use.
 **Version**: 1.0.0  
 **Last Updated**: 2024  
 **Created with**: HTML5, CSS3, Vanilla JavaScript
-## Author
--Name: Omkar Sharma
--GitHub: @omkar-editor
+##Author
+- Name: Omkar Sharma
+- GitHub: @omkar-editor
 
 - Submitted as part of the WeIntern Pvt Ltd Web Development Internship – Week 1.
