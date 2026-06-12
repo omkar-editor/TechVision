@@ -2,9 +2,9 @@
 - GitHub: @omkar-editor
 - Organization: WeIntern Pvt Ltd
 - Program: Web Development Internship – Week 2
-# Objective 
+## Objective 
 -Build a secure user authentication system that handles registration, login, and session management. Security best practices such as password hashing and input sanitization must be applied throughout.
-# Key Requirements
+## Key Requirements
 - User registration with email, username, and password
 - Password hashing using bcrypt or similar algorithm
 - Login system that validates credentials against the database
@@ -14,9 +14,12 @@
 - Display appropriate error messages for invalid credentials
 
 
-# TechVision - Responsive Company Website
+## TechVision - Responsive Company Website
 
 A fully responsive, multi-page company website built with modern HTML5, CSS3, and JavaScript. Designed to work seamlessly across all devices with professional branding and interactive features.
+
+## Live Link
+- https://omkar-editor.github.io/TechVision/
 
 ## 📋 Features
 
@@ -50,6 +53,14 @@ Vortex/
 ├── script.js           # JavaScript functionality
 └── README.md           # This file
 ```
+| View Point | Screenshots |
+|----------|-----|
+| Home - Desktop | <img width="1276" height="550" alt="Screenshot 2026-06-11 235038" src="https://github.com/user-attachments/assets/66ae85db-9fea-4235-a62a-c46d3d357edf" />| 
+| Home - Phone | <img width="1080" height="2251" alt="techvision" src="https://github.com/user-attachments/assets/17c41ff0-c15a-4a7a-964e-d5ada52bc0ec" />| 
+| About - Phone | <img width="1080" height="2270" alt="image" src="https://github.com/user-attachments/assets/3d239017-ebeb-4a2a-8f6d-b50166e65443" />|
+| Service - Phone | <img width="1078" height="2259" alt="image" src="https://github.com/user-attachments/assets/b8add072-b0da-4399-8bf5-23afc371c014" />|
+| Contact - Phone |<img width="1080" height="2262" alt="image" src="https://github.com/user-attachments/assets/ba8013b8-fd83-4c3b-a309-43615e990b97" />|
+| Authentication - Phone | <img width="1080" height="2249" alt="image" src="https://github.com/user-attachments/assets/608ea0c2-dc2e-4558-84e6-dc80af1ffab0" />|
 
 ## 🎨 Design System
 
