@@ -56,6 +56,9 @@ Vortex/
 | View Point | Screenshots |
 |----------|-----|
 | Home - Desktop | <img width="1276" height="550" alt="Screenshot 2026-06-11 235038" src="https://github.com/user-attachments/assets/66ae85db-9fea-4235-a62a-c46d3d357edf" />| 
+| About - Desktop |<img width="1272" height="607" alt="image" src="https://github.com/user-attachments/assets/ac3ec272-05e2-49f5-9c80-7aec6279e7a8" />|
+| Services - Desktop |<img width="1272" height="607" alt="image" src="https://github.com/user-attachments/assets/370eaba3-3d6b-4a41-a4cc-e371f73da542" />|
+| Contact (with Authentication)- Desktop |<img width="1243" height="545" alt="image" src="https://github.com/user-attachments/assets/9c7f604d-c045-457a-9acc-ff8ac2323c90" />|
 | Home - Phone | <img width="1080" height="2251" alt="techvision" src="https://github.com/user-attachments/assets/17c41ff0-c15a-4a7a-964e-d5ada52bc0ec" />| 
 | About - Phone | <img width="1080" height="2270" alt="image" src="https://github.com/user-attachments/assets/3d239017-ebeb-4a2a-8f6d-b50166e65443" />|
 | Service - Phone | <img width="1078" height="2259" alt="image" src="https://github.com/user-attachments/assets/b8add072-b0da-4399-8bf5-23afc371c014" />|
